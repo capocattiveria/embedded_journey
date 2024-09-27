@@ -3,3 +3,5 @@
 # Debouncing Example
 
 You can find more information on my blog
+
+[https://nicofiorini98.github.io/posts/embedded_journey/1_debounce_button/]
